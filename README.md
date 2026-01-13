@@ -8,11 +8,18 @@ Passionné par la création de solutions mobiles et web performantes, j'accompag
 
 ### 🛠️ Compétences Techniques
 
-- **Mobile :** Flutter (Multi-plateforme), Firebase (Auth, Database, Cloud Messaging)
-- **Frontend :** React.js, Tailwind CSS, Blade
-- **Backend :** PHP (Laravel), API REST
-- **Desktop :** C++ (Qt), Electron.js
-- **Design & Conception :** UI/UX Design (Figma), Modélisation de bases de données (MySQL, Firebase)
+- **Mobile :** Flutter (Multi-plateforme)![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white), Firebase (Auth, Database, Cloud Messaging)
+- **Frontend :** React.js![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB), Tailwind CSS ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white), Blade
+- **Backend :** PHP (Laravel) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white), API REST
+- **Desktop :** C++ (Qt)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=Qt&logoColor=white), Electron.js
+- **Data Science & ML :** Python (Pandas, NumPy, Scikit-Learn), Matplotlib, Seaborn.![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- **Analyse de Données :** Nettoyage de données, Visualisation, Interprétation statistique.
+- **Design & Conception :** UI/UX Design (Figma)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white), Modélisation de bases de données (MySQL, Firebase)
 - **Outils :** Git & GitHub, Postman, Trello, ClickUp
 
 ---
