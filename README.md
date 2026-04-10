@@ -7,7 +7,7 @@
 ### Fullstack Architect | Mobile & Web Ecosystems 🚀
 *Building high-performance systems, from hardware reverse engineering to Cloud architectures.*
 
-[**Portfolio**](https://elisee-houeto.vercel.app/) • [**LinkedIn**](YOUR_LINKEDIN_LINK) • [**Email**](mailto:eliseehoueto@gmail.com)
+[**Portfolio**](https://elisee-houeto.vercel.app/) • [**LinkedIn**](https://www.linkedin.com/in/elis%C3%A9e-houeto-659711300) • [**Email**](mailto:eliseehoueto@gmail.com)
 
 ---
 
