@@ -44,6 +44,10 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eliseehoueto&layout=compact&theme=radical&hide_border=true" alt="Langs" width="41%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliseehoueto&theme=radical&hide_border=true" alt="Élisée's Streak" width="90%" />
+</p>
+
 ---
 
 ### 📬 Get In Touch
