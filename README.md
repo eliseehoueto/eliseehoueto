@@ -1,13 +1,13 @@
 # # Hi there 👋, I'm Élisée HOUETO
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=eliseehoueto&label=Profil%20Views&color=0e76a8&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=eliseehoueto&label=Profile%20Views&color=0e76a8&style=flat" alt="Views" />
 </p>
 
 ### Fullstack Architect | Mobile & Web Ecosystems 🚀
-*Bâtir des systèmes performants, du reverse engineering aux architectures Cloud.*
+*Building high-performance systems, from hardware reverse engineering to Cloud architectures.*
 
-[**Portfolio**](https://elisee-houeto.vercel.app/) • [**LinkedIn**](TON_LIEN_LINKEDIN) • [**Email**](mailto:eliseehoueto@gmail.com)
+[**Portfolio**](https://elisee-houeto.vercel.app/) • [**LinkedIn**](YOUR_LINKEDIN_LINK) • [**Email**](mailto:eliseehoueto@gmail.com)
 
 ---
 
@@ -22,12 +22,12 @@
 
 ---
 
-### 🚀 Projets Phares
+### 🚀 Key Projects
 
-* **📍 BENINGO** : Écosystème de transport urbain (Tracking temps réel & Firebase).
-* **🛒 ELITE** : Plateforme E-commerce optimisée (Architecture Laravel).
-* **📝 FUNQUIZZ** : App de quiz dynamique avec gestion multi-tenant.
-* **⌚ Health Guard** : IoT & Reverse engineering de protocoles wearables.
+* **📍 BENINGO** : Urban transport ecosystem (Real-time tracking & Firebase).
+* **🛒 ELITE** : High-performance E-commerce platform (Laravel Architecture).
+* **📝 FUNQUIZZ** : Dynamic quiz application with multi-tenant management.
+* **⌚ Health Guard** : IoT platform & wearable protocol reverse engineering.
 
 ---
 
@@ -46,11 +46,11 @@
 
 ---
 
-### 📬 Contact Direct
+### 📬 Get In Touch
 
 <p align="left">
 <a href="mailto:eliseehoueto@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="tel:+2290167594332"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://wa.me/2290167594332"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
